@@ -1,0 +1,18 @@
+asteroid.losses package
+=======================
+
+.. automodule:: asteroid.losses
+   :members:
+   :undoc-members:
+   :show-inheritance:
+   :private-members:
+
+Submodules
+----------
+
+.. toctree::
+
+   asteroid.losses.cluster
+   asteroid.losses.mse
+   asteroid.losses.pit_wrapper
+   asteroid.losses.sdr
